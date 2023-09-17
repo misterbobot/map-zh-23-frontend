@@ -1,0 +1,1 @@
+export const USER_LOCATION_TASK_NAME = 'background-location-task';

@@ -1,0 +1,15 @@
+export const themeColors = {
+    white: '#FFF',
+    black: '#000',
+    green: '#C9FC5F',
+    backgroundColorBlack: '#1A191E',
+    gold: '#D7BD8B',
+    gray: '#404044',
+    graylight: '#BFBFBF',
+    bgInput: '#222227',
+    bgTabBarBg: '#222227',
+    bgProfile: '#222227',
+    red: '#F44336',
+    userTag: '#4B4952',
+    disableButton: '#555555',
+};
